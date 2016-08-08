@@ -3,7 +3,7 @@ Low power node  - ATMega328p program to send humidity, temperature, hygrometry a
  
   This program enables to send sensor data with low power:
  - send sensor data to a 433Mhz gateway
- - with 3 AA batteries measured at 5V the current consumption in sleep mode is around 5uA
+ - with 3 AA batteries measured at 5V the current consumption in sleep mode is around 6uA
 
   Contributors:
   - 1technophile
@@ -19,7 +19,7 @@ Low power node  - ATMega328p program to send humidity, temperature, hygrometry a
 
   Documentation:
   Project home: https://github.com/1technophile/low_power_sensor
-  Blog: https://1technophile.blogspot.com/
+  Blog: http://1technophile.blogspot.fr/2016/08/low-cost-low-power-6ua-garden-433mhz.html
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software 
 and associated documentation files (the "Software"), to deal in the Software without restriction, 
