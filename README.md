@@ -1,7 +1,9 @@
 # low_power_sensor
 Low power node  - ATMega328p standalone based environment sensor
  low_power_sensor.ino is dedicated to outside house measurement it measures humidity, temperature, hygrometry and battery voltage
+ Tutorial: http://1technophile.blogspot.fr/2016/08/low-cost-low-power-6ua-garden-433mhz.html
  low_power_sensor_inside.ino is dedicated to inside house measurement it measures humidity, temperature and battery voltage
+ Tutorial: http://1technophile.blogspot.fr/2016/12/low-cost-low-power-room-sensor-with.html
  
   This program enables to send sensor data with low power:
  - send sensor data to a 433Mhz gateway
@@ -21,7 +23,6 @@ Low power node  - ATMega328p standalone based environment sensor
 
   Documentation:
   Project home: https://github.com/1technophile/low_power_sensor
-  Blog: http://1technophile.blogspot.fr/2016/08/low-cost-low-power-6ua-garden-433mhz.html
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software 
 and associated documentation files (the "Software"), to deal in the Software without restriction, 
