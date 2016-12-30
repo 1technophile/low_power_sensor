@@ -1,5 +1,7 @@
 # low_power_sensor
-Low power node  - ATMega328p program to send humidity, temperature, hygrometry and battery voltage
+Low power node  - ATMega328p standalone based environment sensor
+ low_power_sensor.ino is dedicated to outside house measurement it measures humidity, temperature, hygrometry and battery voltage
+ low_power_sensor_inside.ino is dedicated to inside house measurement it measures humidity, temperature and battery voltage
  
   This program enables to send sensor data with low power:
  - send sensor data to a 433Mhz gateway
